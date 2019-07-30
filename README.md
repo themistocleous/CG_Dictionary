@@ -17,8 +17,9 @@ The code is from 2011-2012 and has not changed ever since.
 - The pronunciation sounds.
 
 # Cite
-Presented in EURALEX 2012 here: Themistocleous Charalambos Marianna Katsoyannou, Spyros Armosti, and Kyriaci Christodoulou (2012). Cypriot Greek Lexicography: A Reverse Dictionary of Cypriot Greek. Paper presented at the 15th European Association for Lexicography (EURALEX) Conference, Oslo, Norway, 7 – 11 August 2012.
+Presented in EURALEX 2012
 
-[Link to the EURALEX paper:](http://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202012/pp262-266%20Themistocleus,%20Katsoyannou,%20Armosti%20and%20Christodoulou.pdf)
+[Link to the EURALEX paper:](http://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202012/pp262-266%20Themistocleus,%20Katsoyannou,%20Armosti%20and%20Christodoulou.pdf) Themistocleous Charalambos Marianna Katsoyannou, Spyros Armosti, and Kyriaci Christodoulou (2012). Cypriot Greek Lexicography: A Reverse Dictionary of Cypriot Greek. Paper presented at the 15th European Association for Lexicography (EURALEX) Conference, Oslo, Norway, 7 – 11 August 2012.
+
 
 [Link to the EURALEX software demonstration paper:](http://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202012/pp889-891%20Themistocleus,%20Katsoyannou,%20Armosti%20and%20Christodoulou.pdf) Themistocleous Charalambos, Marianna Katsoyannou, Spyros Armosti, and Kyriaci Christodoulou (2012). Cypriot Greek Lexicography: An online lexical database. Paper presented at the 15th European Association for Lexicography (EURALEX) Conference, Oslo, Norway, 7 – 11 August 2012.
