@@ -2,7 +2,7 @@
 
 ![Dictionary](Figures/dictionary.png)
 
-*Cypriot Greek Dictionary* is an online phonemic dictionary of  Cypriot Greek with text-to-speech, developed as part of the ‘Syntychies’ research program. You can search for specific words using basic regular expressions. The environment was written in C#.
+*Cypriot Greek Dictionary* is an online dictionary of  Cypriot Greek with text-to-speech, developed as part of the ‘Syntychies’ research program. You can search for specific words using basic regular expressions. The environment was written in C#.
 
 <a href="http://lexcy.library.ucy.ac.cy">Visit Cypriot Greek Dictionary here.</a>
 
