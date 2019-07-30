@@ -1,0 +1,8 @@
+c:\users\charalambos\documents\visual studio 2010\Projects\Lexicon\Lexicon\bin\Lexicon.dll
+c:\users\charalambos\documents\visual studio 2010\Projects\Lexicon\Lexicon\bin\Lexicon.pdb
+c:\users\charalambos\documents\visual studio 2010\Projects\Lexicon\Lexicon\obj\Debug\ResolveAssemblyReference.cache
+c:\users\charalambos\documents\visual studio 2010\Projects\Lexicon\Lexicon\obj\Debug\Lexicon.dll
+c:\users\charalambos\documents\visual studio 2010\Projects\Lexicon\Lexicon\obj\Debug\Lexicon.pdb
+C:\Users\Charalambos\Documents\Visual Studio 2010\Projects\Lexicon\Lexicon\obj\Debug\Lexicon.Properties.Resources.resources
+C:\Users\Charalambos\Documents\Visual Studio 2010\Projects\Lexicon\Lexicon\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Charalambos\Documents\Visual Studio 2010\Projects\Lexicon\Lexicon\obj\Debug\GenerateResource.write.1.tlog

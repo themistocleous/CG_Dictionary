@@ -1,0 +1,250 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Lexicon.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>Cypriot Greek Dictionary</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style10
+        {
+            text-align: left;
+        }
+        .style11
+        {
+            font-size: 1.1em;
+            display: block;
+            text-align: center;
+            padding: 10px;
+            color: White;
+        }
+        .footerulrs
+        {
+            font-family: "Times New Roman", Times, serif;
+            font-size: x-small;
+            color: #FFFFFF;
+        }
+        .style14
+        {
+            font-family: Calibri;
+            font-size: small;
+            text-align: center;
+        }
+        .style32
+        {
+            color: #FFFFFF;
+        }
+        .style46
+        {
+            font-family: Calibri;
+        }
+        .style47
+        {
+            font-family: Calibri;
+            font-size: medium;
+        }
+        .style48
+        {
+            text-align: left;
+            color: #FFFFFF;
+        }
+        .style49
+        {
+            color: #003300;
+        }
+    </style>
+    
+<script type="text/javascript">
+
+
+
+    var _gaq = _gaq || [];
+
+    _gaq.push(['_setAccount', 'UA-3789900-19']);
+
+    _gaq.push(['_trackPageview']);
+
+
+
+    (function () {
+
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+    })();
+
+ 
+
+</script>
+    </head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1 class="style10">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h1>
+                <p class="style10">
+                    &nbsp;&nbsp;</p>
+                <p class="style10">
+                    &nbsp;</p>
+                <p class="style10">
+                    <strong>
+                    <span class="style46" 
+                        
+                        style="border-collapse: separate; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; ">
+                    <span class="Style33" 
+                        
+                        
+                        Style33color: rgb(153, 102, 51); line-height: 20px; ">
+                    &nbsp;</span></span><span class="Style33" 
+                        
+                        
+                        Style33line-height: 20px; "><span class="Style33" 
+                        
+                        Style33border-collapse: separate; font-family: 'Times New Roman'; font-Style33normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; ">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><span class="Style33" 
+                        
+                        
+                        Style33line-height: 20px; "><span class="Style33" 
+                        
+                        Style33border-collapse: separate; font-family: 'Times New Roman'; font-Style33normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; "> </span> </span>
+                    <span class="Style33" 
+                        
+                        
+                        Style33color: rgb(153, 102, 51); line-height: 20px; ">
+                    <span class="Style33" 
+                        
+                        Style33border-collapse: separate; color: rgb(0, 0, 0); font-Style33normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">
+                    <span class="Style33"> <a href="Lexicon.aspx" class="style49">ΑΡΧΙΚΗ ΣΕΛΙΔΑ</a></span></span><span 
+                        class="style49"><span 
+                        class="style47"><span class="Style33" 
+                        
+                        Style33border-collapse: separate; color: rgb(0, 0, 0); font-Style33normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span 
+                        class="Style33"><span class="Style33">&nbsp;</span></span></span></span></span>
+                    <span 
+                        class="Style33 Style33color: rgb(204, 153, 0); ">
+                    <span class="Style33" 
+                        
+                        
+                        Style33color: rgb(153, 102, 51); line-height: 20px; ">
+                    <span class="Style33" 
+                        
+                        
+                        
+                        Style33border-collapse: separate; color: rgb(0, 0, 0); font-Style33normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">
+                    <a 
+                        href="Sintixies.aspx"><span class="Style33"><a href="sintixies.aspx" 
+                        class="style49">ΣΥΝΤΥΣ̌IΕΣ</a></span><span class="style49"></a></span></span></span><span 
+                        class="style49"><span class="Style33" 
+                        
+                        Style33border-collapse: separate; color: rgb(0, 0, 0); font-Style33normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span class="Style33" 
+                        
+                        
+                        Style33color: rgb(153, 102, 51); line-height: 20px; "><span class="Style33" 
+                        
+                        
+                        Style33color: rgb(153, 102, 51); line-height: 20px; "><span class="Apple-Style33pan" 
+                        
+                        
+                        Style33border-collapse: separate; color: rgb(0, 0, 0); font-Style33normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; "><span 
+                        
+                        
+                        
+                        Style33line-height: 20px; "><span 
+                        
+                        
+                        
+                        
+                        Style33border-collapse: separate; font-Style33normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span 
+                        class="Style33">&nbsp; </span></span></span></span></span></span></span>
+                    </span>
+                    <span class="Apple-Style33pan" 
+                        Style33border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-Style33normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; ">
+                    <span 
+                        
+                        
+                        
+                        Style33color: rgb(153, 102, 51); font-family: 'Helvetica Neue', 'Lucida Grande', 'Segoe UI', Arial, Helvetica, Verdana, sans-serif; line-height: 20px; ">
+                    <span 
+                        
+                        
+                        Style33color: rgb(153, 102, 51); line-height: 20px; "><span class="Style33" 
+                        
+                        
+                        
+                        Style33border-collapse: separate; color: rgb(0, 0, 0); font-Style33normal; 
+                        font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; 
+                        text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: 
+                        normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; 
+                        -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; 
+                        -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><a href="
+                        AboutUs.aspx" ;="" apple-style33pan"="" font-family:="" font-weight:=""><span 
+                        class="Style33"><a href="AboutUs.aspx" class="style49">ΕΡΕΥΝ. ΟΜΑΔΑ</a><span 
+                        class="style49"> </span> </span><span class="style49"></a></span></span></span>
+                    <span class="style49"></span></span>
+                    </span>
+                    <span class="Style33" 
+                        
+                        
+                        
+                        Style33border-collapse: separate; font-Style33normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span class="Style33" 
+                        
+                        
+                        Style33line-height: 20px; "><span class="Style33" 
+                        
+                        Style33border-collapse: separate; font-Style33normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">&nbsp; 
+                    </span></span> </span>
+                    <span 
+                        class="Style33 Style33color: rgb(204, 153, 0); ">
+                    <span class="Style33" 
+                        
+                        
+                        
+                        Style33border-collapse: separate; color: rgb(0, 0, 0); font-Style33normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">
+                    <span 
+                        
+                        
+                        Style33color: rgb(153, 102, 51); line-height: 20px; ">
+                    <span 
+                        
+                        
+                        Style33color: rgb(153, 102, 51); line-height: 20px; ">
+                    <span 
+                        
+                        Style33border-collapse: separate; color: rgb(0, 0, 0); font-Style33normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">
+                    <a href="http://sindishes.wordpress.com/%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%B9%CE%B5%CF%8D%CF%83%CE%B5%CE%B9%CF%82/" 
+                        class="style49">
+                    <span class="Style33">ΔΗΜΟΣΙΕΥΜΑΤΑ</span></a><span class="style49">&nbsp; </span> <span class="Style33">
+                    <a href="Help.aspx">ΒΟΗΘΕΙΑ</a></span></span></span><span class="style49"></span></span></span>&nbsp;</p>
+                <hr />
+                <p class="style10">
+                    &nbsp;</p>
+            </div>
+            <div class="style11">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <p>
+                    </p>
+                <p class="style48">
+                    <br />
+                </p>
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <p class="style14">
+        <strong>
+        <span class="style32">
+        Ερευνητικό Πρόγραμμα Συντυσές. Copyright © 2011. Δημιουργία Ιστοσελίδας:
+        <a href="http://www.charalambosthemistocleous.com" style="color: #FFFFFF">Χαράλαμπος Θεμιστοκλέους.</a>&nbsp;
+        <a href="Contact.aspx" style="color: #FFFFFF">&nbsp;Επικοινωνία.</a></span></strong></p>
+    </form>
+    </body>
+</html>

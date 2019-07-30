@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{425DEB53-4FF6-481D-818A-87B1185F61FC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lexicon/Lexicon.aspx.cs">
+    <Files>
+      <File FileName="Lexicon/Contact.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Account/ChangePassword.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Help.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Writing.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Site.Master.designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/AboutUs.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Publications.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/sintixies.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Properties/Resources.Designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Properties/Resources.resx" Line="1" Column="1" />
+      <File FileName="Lexicon/Lexicon.aspx.cs" Line="9" Column="21" />
+      <File FileName="Lexicon/Lexicon.aspx" Line="16" Column="18" />
+      <File FileName="Lexicon/Site.Master" Line="1" Column="1" />
+      <File FileName="Lexicon/Site.Master.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/AboutUs.aspx" Line="1" Column="1" />
+      <File FileName="Lexicon/Class1.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Contact.aspx" Line="1" Column="1" />
+      <File FileName="Lexicon/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Properties/Settings.Designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Publications.aspx.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/sintixies.aspx.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Lexicon.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Writing.aspx.cs" Line="1" Column="1" />
+      <File FileName="Lexicon/Scripts/jquery-1.4.1.js" Line="1" Column="1" />
+      <File FileName="Lexicon/Scripts/jquery-1.4.1.min.js" Line="1" Column="1" />
+      <File FileName="Lexicon/Scripts/jquery-1.4.1-vsdoc.js" Line="2" Column="2" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/5.2.0/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets" Line="2005" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lexicon PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
